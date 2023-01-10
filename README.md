@@ -10,3 +10,5 @@ git add -A
 git commit -c "Updated"
 git push
 ```
+
+Conventional Commits extension was added.

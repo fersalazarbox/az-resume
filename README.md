@@ -12,3 +12,8 @@ git push
 ```
 
 Conventional Commits extension was added.
+
+Azure extension should be installed
+This should be added in case not included (https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions#windows) with core tools(https://github.com/Azure/azure-functions-core-tools#installing)
+A new function v4 is created, .NET 6 core is needed https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+Only with these youll be able to execute func command

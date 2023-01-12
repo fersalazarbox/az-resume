@@ -20,3 +20,5 @@ Only with these youll be able to execute func command
 To connect with COsmos use: https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2?tabs=in-process%2Cfunctionsv2&pivots=programming-language-csharp#install-extension
 AzureResumeConnectionString
 
+Host CORS added in json.
+in main.js the func api was populated to connect FE y BE

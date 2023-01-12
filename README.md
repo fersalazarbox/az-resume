@@ -22,3 +22,11 @@ AzureResumeConnectionString
 
 Host CORS added in json.
 in main.js the func api was populated to connect FE y BE
+
+Deployed into a new function APP, Appconneftion added
+Connect mainjs with new function API URL
+enable CORS in Az
+
+deploy static website in Blob storage
+
+add url in CORS

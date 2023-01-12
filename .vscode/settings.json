@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
-        "README"
+        "README",
+        "Serverless Az Function"
     ],
     "azureFunctions.deploySubpath": "backend\\api/bin/Release/net6.0/publish",
     "azureFunctions.projectLanguage": "C#",

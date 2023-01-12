@@ -17,3 +17,6 @@ Azure extension should be installed
 This should be added in case not included (https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions#windows) with core tools(https://github.com/Azure/azure-functions-core-tools#installing)
 A new function v4 is created, .NET 6 core is needed https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 Only with these youll be able to execute func command
+To connect with COsmos use: https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2?tabs=in-process%2Cfunctionsv2&pivots=programming-language-csharp#install-extension
+AzureResumeConnectionString
+

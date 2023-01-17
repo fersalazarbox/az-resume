@@ -30,3 +30,19 @@ enable CORS in Az
 deploy static website in Blob storage
 
 add url in CORS
+
+Custom domain from Namecheap, link with blob
+CDN for enabling https NOT
+
+azure CLI installed
+
+az login
+az account show
+NOT
+az ad sp create-for-rbac --name "myML" --role contributor \
+                            --scopes /subscriptions/<subscription-id>/resourceGroups/<group-name> \
+                            --sdk-auth
+az ad sp create-for-rbac --name "AzureResumeACG" --role contributor --scopes /subscriptions/00856252-080f-4328-9d88-43f52922d12e/resourceGroups/rg-portfolio-prod-eastus-001
+az ad sp create-for-rbac --name "AzureResumeACG" --role contributor --scopes /subscriptions/00856252-080f-4328-9d88-43f52922d12e/resourceGroups/rg-portfolio-prod-eastus-001 --sdk-auth
+
+NOT working for Student subs

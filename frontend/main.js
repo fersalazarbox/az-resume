@@ -2,6 +2,7 @@
 window.addEventListener('DOMContentLoaded', (event) => {
     getVisitCount();
 })
+
 const functionApiUrl = 'https://func-portfolio-prod-lfso.azurewebsites.net/api/GetResumeCounter?code=TFzbDpnl_GgJsX6cKdXgBveRdKyYgDf4vTVluH0o6zlkAzFuK4Wa5g==';
 const localFunctionApi = 'http://localhost:7071/api/GetResumeCounter';
 
